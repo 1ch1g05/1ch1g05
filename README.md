@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi! My name's Maria and I'm a student from Computer Scientist. I hadn't much experience in other languages, expect HTML and CSS. I had a bit knowledge in Java and JavaScript.</p>
+<p align="left">Hi! My name's Maria and I'm a student from Computer Scientist. I'm learning other languages, expect HTML and CSS, cuz I had some acknowledgment with the both. I had a bit knowledge in Java and JavaScript, in a basic level.</p>
 
 ###
 
